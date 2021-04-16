@@ -1,2 +1,2 @@
 # pizza-cart
-Carrinho de compras realizado com Javascript puro
+Carrinho de compras realizado com HTML/CSS e Javascript
