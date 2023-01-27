@@ -1,5 +1,5 @@
 # Pizza Cart
->Carrinho de compras realizado com HTML/CSS e Javascript
+>Shopping cart created with Javascript and CSS
 
 [View Demo](https://lucasalvaresa.github.io/pizza-cart/)
 
